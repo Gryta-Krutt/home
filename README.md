@@ -4,7 +4,7 @@
 <br />
 <br />
 
-<a href='https://github.com/Gryt-chat/client'>
+<a href='https://github.com/Gryt-chat/gryt-client'>
 <img src='./clientRepo.png'/>
 </a>
 
@@ -23,7 +23,7 @@
 <br />
 <br />
 
-<a href='https://github.com/Gryt-chat/server'>
+<a href='https://github.com/Gryt-chat/gryt-server'>
 <img src='./serverRepo.png'/>
 </a>
 
