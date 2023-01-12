@@ -1,36 +1,52 @@
-<h2>Client</h2>
-<div>
+<div align=center>
+<img src='./Client banner.png'/>
+
+<br />
+<br />
+
 <a href='https://github.com/Gryt-chat/client'>
-<img src='./links/clientRepo.png'/>
+<img src='./clientRepo.png'/>
 </a>
 
 <a href='https://docs.gryt.chat/docs/category/client'>
-<img src='./links/clientDocs.png'/>
+<img src='./clientDocs.png'/>
 </a>
 </div>
 
-----------------
+<br />
+<br />
+<br />
 
-<h2>Server</h2>
-<div>
+<div align=center>
+<img src='./Server banner.png'/>
+
+<br />
+<br />
+
 <a href='https://github.com/Gryt-chat/server'>
-<img src='./links/serverRepo.png'/>
+<img src='./serverRepo.png'/>
 </a>
 
 <a href='https://docs.gryt.chat/docs/category/server'>
-<img src='./links/serverDocs.png'/>
+<img src='./serverDocs.png'/>
 </a>
 </div>
 
-----------------
+<br />
+<br />
+<br />
 
-<h2>Homepage</h2>
-<div>
+<div align=center>
+<img src='./Documentation banner.png'/>
+
+<br />
+<br />
+
 <a href='https://gryt.chat'>
-<img src='./links/home.png'/>
+<img src='./homepage.png'/>
 </a>
 
-<a href='https://github.com/Gryt-chat/landing-page'>
-<img src='./links/homeRepo.png'/>
+<a href='https://docs.gryt.chat'>
+<img src='./documentation.png'/>
 </a>
 </div>
